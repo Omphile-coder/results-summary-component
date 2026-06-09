@@ -5,7 +5,7 @@ This project is part of the Codetribe Bootcamp assessment. It replicates the Fro
 The component displays a score summary, dynamically loads data from a local JSON file, and adapts to different screen sizes.
 
 ## Links
-- **Live Site (GitHub Pages):** 
+- **Live Site (GitHub Pages):** https://omphile-coder.github.io/results-summary-component/
 
 - **Repository:** https://github.com/Omphile-coder/results-summary-component.git
 
