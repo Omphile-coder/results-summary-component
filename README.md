@@ -10,7 +10,7 @@ The component displays a score summary, dynamically loads data from a local JSON
 - **Repository:** https://github.com/Omphile-coder/results-summary-component.git
 
 ## Screenshot
-![Desktop Design](./assets/images/preview.jpg)
+![Desktop Design](./preview.jpg)
 
 ## Built With
 - Semantic **HTML5**
