@@ -28,7 +28,7 @@ The component displays a score summary, dynamically loads data from a local JSON
 - How to structure semantic HTML before styling
 - Writing reusable CSS classes for responsive layouts
 - Fetching and rendering local JSON data dynamically
-- Hosting projects on GitHub Pages and Vercel
+- Hosting projects on GitHub Pages 
 
 ## Continued Development
 - Improve accessibility (ARIA labels, keyboard navigation)
