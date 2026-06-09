@@ -39,5 +39,5 @@ The component displays a score summary, dynamically loads data from a local JSON
 ##  Author
 - **Omphile Lucas**  
   - GitHub: [Omphile-coder](https://github.com/Omphile-coder)
-  - LinkedIn: (www.linkedin.com/in/Omphile)
+  - LinkedIn: (www.linkedin.com/in/Omphile-Lucas)
 
